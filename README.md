@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository.
 
-Author: Anik Mondal
+<b>Author:</b> Anik Mondal
